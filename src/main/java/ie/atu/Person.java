@@ -7,7 +7,9 @@ public class Person {
 
     public Person()
     {
-
+        name = " ";
+        address = " ";
+        phoneNumber = " ";
     }
     public Person(String name, String address, String phoneNumber)
     {
